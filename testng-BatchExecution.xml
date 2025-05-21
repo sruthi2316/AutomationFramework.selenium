@@ -7,7 +7,7 @@
 
   <test thread-count="5" name="Test">
     <classes>
-    <class name="inventoryTest.AddLowestPriceProductToCartTest"/>
+    <class name="inventoryTest.AddLowestPriceProDuctToCartUsingTestNg"/>
     <class name="inventoryTest.AddProductToCartTest"/>
       
       

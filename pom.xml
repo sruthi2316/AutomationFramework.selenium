@@ -99,7 +99,7 @@
         <version>3.5.3</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>testng-BatchExecution.xml</suiteXmlFile>
+            <suiteXmlFile>testng-BatchExecution2.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
